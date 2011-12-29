@@ -4,7 +4,7 @@
     <list default="true" id="ac7a2d87-7651-4281-ad17-2c05ec8dd242" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.path_progress" afterPath="$PROJECT_DIR$/.path_progress" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about_message_passing.rb" afterPath="$PROJECT_DIR$/about_message_passing.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about_proxy_object_project.rb" afterPath="$PROJECT_DIR$/about_proxy_object_project.rb" />
     </list>
     <ignored path="Ruby-Koans.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,10 +27,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="about_proxy_object_project.rb" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/about_proxy_object_project.rb">
+      <file leaf-file-name="about_to_str.rb" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/about_to_str.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="36" column="0" selection-start="1119" selection-end="1119" vertical-scroll-proportion="0.33333334">
+            <state line="12" column="0" selection-start="283" selection-end="283" vertical-scroll-proportion="0.3105023">
               <folding />
             </state>
           </provider>
@@ -54,7 +54,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/about_triangle_project.rb" />
         <option value="$PROJECT_DIR$/about_exceptions.rb" />
         <option value="$PROJECT_DIR$/triangle.rb" />
         <option value="$PROJECT_DIR$/about_triangle_project_2.rb" />
@@ -70,6 +69,7 @@
         <option value="$PROJECT_DIR$/about_scope.rb" />
         <option value="$PROJECT_DIR$/about_class_methods.rb" />
         <option value="$PROJECT_DIR$/about_message_passing.rb" />
+        <option value="$PROJECT_DIR$/about_proxy_object_project.rb" />
       </list>
     </option>
   </component>
@@ -280,11 +280,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/example_file.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/about_iteration.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="78" column="59" selection-start="2068" selection-end="2068" vertical-scroll-proportion="0.0" />
@@ -354,14 +349,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/about_message_passing.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="174" column="22" selection-start="4651" selection-end="4651" vertical-scroll-proportion="0.0">
+        <state line="174" column="22" selection-start="4651" selection-end="4651" vertical-scroll-proportion="1.2070016">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/about_proxy_object_project.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="0" selection-start="1119" selection-end="1119" vertical-scroll-proportion="0.33333334">
+        <state line="28" column="30" selection-start="877" selection-end="877" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about_to_str.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="0" selection-start="283" selection-end="283" vertical-scroll-proportion="0.3105023">
           <folding />
         </state>
       </provider>
